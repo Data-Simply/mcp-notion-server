@@ -1,0 +1,26 @@
+# Development
+node_modules
+npm-debug.log
+.git
+.gitignore
+.github
+
+# Editor files
+.vscode
+.idea
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation
+README.md
+LICENSE
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# Local environment
+.env*
